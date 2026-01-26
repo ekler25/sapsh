@@ -1,2 +1,0 @@
-# sapsh
-Saphire Shell
